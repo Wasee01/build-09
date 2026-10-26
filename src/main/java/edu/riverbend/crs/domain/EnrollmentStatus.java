@@ -1,0 +1,1 @@
+package edu.riverbend.crs.domain; public enum EnrollmentStatus { ENROLLED, COMPLETED, DROPPED }
